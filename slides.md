@@ -39,7 +39,7 @@ Engineered: originating from the "built environment"; check "MicroBENet".
 - CRISPR-Cas: identify virus-prokaryote pairings.
 - Viral tRNA: match to host genomes.
 
-This is the one place where I think the paper uncovers new insights.
+This is the one place where I think the paper uncovers new biology.
 
 # Expanded view of host-virus interactions
 
