@@ -14,8 +14,12 @@ handout: True
 
 # Data Source
 <!-- To be continued -->
-- Metagenomics Databases
-- Sampling
+- Publicly available metagenomic data sets from the IMG/M system.
+    - 1,729 environmental samples
+    - 1,079 host-associated samples
+    - 234 engineered samples
+
+Engineered: originating from the "built environment". Check "MicroBENet".
 
 # Metagenomic mining identified expanded diversity of viruses
 
