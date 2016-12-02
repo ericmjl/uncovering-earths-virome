@@ -4,6 +4,7 @@ author: Eric J. Ma
 theme: Madrid
 mainfont: True
 colortheme: dolphin
+handout:
 ---
 
 # Motivating Questions
@@ -20,14 +21,16 @@ colortheme: dolphin
 
 <!-- To be continued -->
 
-# Host-Virus interactions can be mined by combining data
+# Host-Virus interactions mapped by mining disparate data sources
 
 - Viral "Groups": Project known host-virus interactions.
 - CRISPR-Cas: identify virus-prokaryote pairings.
 - Viral tRNA: match to host genomes.
 
-# Result 2:
+# Expanded view of host-virus interactions using mined matches
 
-# Result 3: Biogeography
+![](./figures/nature19094-f2.jpg)
 
--
+# CRISPR spacers targeting same virus found on disparate phyla
+
+![](./figures/nature19094-f3.jpg)
