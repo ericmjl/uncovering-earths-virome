@@ -1,0 +1,57 @@
+% The 12pt makes the default font a bit bigger, but not actually twelve point.
+% The t makes the body of each slide top-justified rather than vertically
+% centered.
+\documentclass[18pt,t]{beamer}
+\usepackage{graphicx}
+
+$if(notes)$
+    \setbeameroption{show notes}
+$else$
+    \setbeameroption{hide notes}
+$endif$
+\setbeamertemplate{note page}[plain]
+
+% Set the theme
+\usetheme{default}
+\usefonttheme{professionalfonts}
+\usefonttheme{serif}
+\usepackage{fontspec}
+\setmainfont{Helvetica Neue}
+\setbeamerfont{note page}{family*=pplx,size=\footnotesize} % Palatino for notes
+
+% Define colours
+\definecolor{foreground}{RGB}{255,255,255}
+\definecolor{background}{RGB}{24,24,24}
+\definecolor{title}{RGB}{107,174,214}
+\definecolor{gray}{RGB}{155,155,155}
+\definecolor{subtitle}{RGB}{102,255,204}
+\definecolor{hilight}{RGB}{102,255,204}
+\definecolor{vhilight}{RGB}{255,111,207}
+
+% Set text colours
+\setbeamercolor{titlelike}{fg=title}
+\setbeamercolor{subtitle}{fg=subtitle}
+\setbeamercolor{institute}{fg=gray}
+\setbeamercolor{normal text}{fg=foreground,bg=background}
+
+% Set other colours
+\setbeamercolor{item}{fg=foreground} % color of bullets
+\setbeamercolor{subitem}{fg=gray}
+\setbeamercolor{itemize/enumerate subbody}{fg=gray}
+\setbeamertemplate{itemize subitem}{{\textendash}}
+\setbeamerfont{itemize/enumerate subbody}{size=\footnotesize}
+\setbeamerfont{itemize/enumerate subitem}{size=\footnotesize}
+
+% Set slide number
+\setbeamertemplate{footline}{%
+    \raisebox{5pt}{\makebox[\paperwidth]{\hfill\makebox[20pt]{\color{gray}
+          \scriptsize\insertframenumber}}}\hspace*{5pt}}
+
+% Set space between paragraphs on notes page
+\addtobeamertemplate{note page}{\setlength{\parskip}{12pt}}
+
+% Some macros to simplify stuff.
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\ig}{\includegraphics}
+\newcommand{\subt}[1]{{\footnotesize \color{subtitle} {#1}}}
