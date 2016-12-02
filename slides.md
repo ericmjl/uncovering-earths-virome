@@ -21,7 +21,7 @@ handout: True
 - How can we discover them if we can't grow them?
 
 # Data Source
-<!-- To be continued -->
+
 - Publicly available metagenomic data sets from the IMG/M system.
     - 1,729 environmental samples
     - 1,079 host-associated samples
