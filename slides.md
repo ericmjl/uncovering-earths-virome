@@ -9,8 +9,11 @@ handout: True
 
 # Slides Online
 
-- Source: http://github.com/ericmjl/uncovering-earths-virome
-- PDF: http://www.ericmjl.com/uploads/uncovering-earths-virome.pdf
+- Source: [github.com/ericmjl/uncovering-earths-virome][source]
+- PDF: [ericmjl.com/uploads/uncovering-earths-virome.pdf][pdf]
+
+[pdf]: http://www.ericmjl.com/uploads/uncovering-earths-virome.pdf
+[source]: http://github.com/ericmjl/uncovering-earths-virome
 
 # Motivating Questions
 
