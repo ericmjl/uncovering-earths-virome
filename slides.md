@@ -34,3 +34,7 @@ handout:
 # CRISPR spacers targeting same virus found on disparate phyla
 
 ![](./figures/nature19094-f3.jpg)
+
+# Viral distribution is clustered according to habitat
+
+![](./figures/nature19094-f4.jpg)
