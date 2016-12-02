@@ -38,3 +38,7 @@ handout:
 # Viral distribution is clustered according to habitat
 
 ![](./figures/nature19094-f4.jpg)
+
+# Viruses can be found basically everywhere
+
+![](./figures/nature19094-f5.jpg)
