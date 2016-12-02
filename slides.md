@@ -27,7 +27,7 @@ handout: True
     - 1,079 host-associated samples
     - 234 engineered samples
 
-Engineered: originating from the "built environment". Check "MicroBENet".
+Engineered: originating from the "built environment"; check "MicroBENet".
 
 # Metagenomic mining expands diversity of known viruses
 
