@@ -1,23 +1,26 @@
 ---
 title: Uncovering the Earth's Virome
 author: Eric J. Ma
-theme: Antibes
+theme: Madrid
+mainfont: True
+colortheme: dolphin
 ---
-# Motivation
+
+# Motivating Questions
 
 - How many viruses are out there?
 - How can we discover them?
 
 # Data Source
-
+<!-- To be continued -->
 - Metagenomics Databases
 - Sampling
 
 # Result 1: Expanded Known Viral Diversity
 
-# Result 2: Host-Virus Interactions
+<!-- To be continued -->
 
-Mine host-virus interactions by combining data:
+# Host-Virus interactions can be mined by combining data
 
 - Viral "Groups": Project known host-virus interactions.
 - CRISPR-Cas: identify virus-prokaryote pairings.
