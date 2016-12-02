@@ -18,7 +18,7 @@ handout: True
 # Motivating Questions
 
 - How many viruses are out there?
-- How can we discover them?
+- How can we discover them if we can't grow them?
 
 # Data Source
 <!-- To be continued -->
