@@ -7,6 +7,10 @@ colortheme: dolphin
 handout: True
 ---
 
+# Slides Online
+
+- Source: http://github.com/ericmjl/uncovering-earths-virome
+
 # Motivating Questions
 
 - How many viruses are out there?
