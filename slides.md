@@ -29,11 +29,11 @@ handout: True
 
 Engineered: originating from the "built environment". Check "MicroBENet".
 
-# Metagenomic mining identified expanded diversity of viruses
+# Metagenomic mining expands diversity of known viruses
 
 ![](./figures/nature19094-f1.jpg)
 
-# Host-Virus interactions mapped by mining disparate data sources
+# Host-virus interactions mapped by data integration
 
 - Viral "Groups": Project known host-virus interactions.
 - CRISPR-Cas: identify virus-prokaryote pairings.
