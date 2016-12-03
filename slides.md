@@ -32,14 +32,20 @@ Engineered: originating from the "built environment"; check "MicroBENet".
 # Data Source and Processing
 
 ## Problem:
-- No universal markers.
+- No universal markers, unlike barcode of life.
 
 ## Solution:
-- Leverage what we know: Protein families from 1,800 manually identified metagenomic viral contigs.
+- Leverage what we know:
+    - Protein families from 1,800 manually identified metagenomic viral contigs.
+    - Known viral protein families from isolates.
+- Use known viral sequences as bait
 
 # Metagenomic mining expands diversity of known viruses
 
-- Use known viral sequences and 
+## Large Viruses
+- 596 kb contig, bioreactor
+- Circular genomes by end overlaps
+- 350-470 kb contig (6 samples)
 
 # Metagenomic mining expands diversity of known viruses
 
