@@ -20,7 +20,7 @@ handout: True
 - How many viruses are out there?
 - How can we discover them if we can't grow them?
 
-# Data Source
+# Data Source and Processing
 
 - Publicly available metagenomic data sets from the IMG/M system.
     - 1,729 environmental samples
@@ -28,6 +28,18 @@ handout: True
     - 234 engineered samples
 
 Engineered: originating from the "built environment"; check "MicroBENet".
+
+# Data Source and Processing
+
+## Problem:
+- No universal markers.
+
+## Solution:
+- Leverage what we know: Protein families from 1,800 manually identified metagenomic viral contigs.
+
+# Metagenomic mining expands diversity of known viruses
+
+- Use known viral sequences and 
 
 # Metagenomic mining expands diversity of known viruses
 
