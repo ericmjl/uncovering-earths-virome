@@ -42,10 +42,10 @@ Engineered: originating from the "built environment"; check "MicroBENet".
 
 # Metagenomic mining expands diversity of known viruses
 
-## Large Viruses
-- 596 kb contig, bioreactor
-- Circular genomes by end overlaps
-- 350-470 kb contig (6 samples)
+- Large Viruses
+    - 596 kb contig, bioreactor
+    - Circular genomes by end overlaps
+    - 350-470 kb contig (6 samples)
 
 # Metagenomic mining expands diversity of known viruses
 
