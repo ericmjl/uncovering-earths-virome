@@ -22,12 +22,15 @@ notes: True
 
 # Data Source and Processing
 
-- Publicly available metagenomic data sets from the IMG/M system.
+- Publicly available metagenomic data sets from the IMG/M[^imgm] system.
     - 1,729 environmental samples
     - 1,079 host-associated samples
     - 234 engineered samples
 
-Engineered: originating from the "built environment"; check "MicroBENet".
+Engineered: originating from the "built environment"; check "MicroBENet[^microbenet]".
+
+[^imgm]: Integrated Microbial Genomes with Microbial Samples
+[^microbenet]: Microbiology of the Built Environment Network
 
 # Data Source and Processing
 
