@@ -29,8 +29,6 @@ notes: True
 
 Engineered: originating from the "built environment"; check "MicroBENet".
 
-\note{My note here!}
-
 # Data Source and Processing
 
 ## Problem:
