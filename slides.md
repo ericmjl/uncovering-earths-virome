@@ -4,7 +4,7 @@ author: Eric J. Ma
 theme: Madrid
 mainfont: True
 colortheme: dolphin
-handout: True
+notes: True
 ---
 
 # Slides Online
@@ -28,6 +28,8 @@ handout: True
     - 234 engineered samples
 
 Engineered: originating from the "built environment"; check "MicroBENet".
+
+\note{My note here!}
 
 # Data Source and Processing
 
