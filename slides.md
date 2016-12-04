@@ -52,7 +52,7 @@ Engineered: originating from the "built environment"; check "MicroBENet[^microbe
 
 # Metagenomic mining expands diversity of known viruses
 
-![](./figures/nature19094-f1.jpg)
+![Where new viruses came from.](./figures/nature19094-f1.jpg)
 
 # Host-virus interactions mapped by data integration
 
@@ -64,7 +64,7 @@ This is the one place where I think the paper uncovers new biology.
 
 # Expanded view of host-virus interactions
 
-![](./figures/nature19094-f2.jpg)
+![Mapping host species of viruses.](./figures/nature19094-f2.jpg)
 
 # CRISPR spacers targeting same virus found on disparate phyla
 
