@@ -86,7 +86,6 @@ This is the one place where I think the paper uncovers new biology.
 
 - Metagenomics expands our view of the biosphere.
 - Comprehensive map of host-virus interactions mined by combining datasets.
--
 
 # Personal Thoughts
 
