@@ -64,7 +64,7 @@ This is the one place where I think the paper uncovers new biology.
 
 # Expanded view of host-virus interactions
 
-![Mapping host species of viruses.](./figures/nature19094-f2.jpg)
+![Viruses mapped to host species.](./figures/nature19094-f2.jpg)
 
 # CRISPR spacers targeting same virus found on disparate phyla
 
