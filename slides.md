@@ -68,7 +68,7 @@ This is the one place where I think the paper uncovers new biology.
 
 # CRISPR spacers targeting same virus found on disparate phyla
 
-![On phage genomes, where CRISPR spacers are found.](./figures/nature19094-f3.jpg)
+![On phage genomes, here's where CRISPR spacers are found.](./figures/nature19094-f3.jpg)
 
 # Viral distribution is clustered according to habitat
 
