@@ -82,7 +82,14 @@ This is the one place where I think the paper uncovers new biology.
 
 ![Global distribution of viral diversity.](./figures/nature19094-sf10.jpg)
 
-# Main Conclusions
+# Paper Conclusions & Claims
 
 - Metagenomics expands our view of the biosphere.
-- New biology mined by combining datasets.
+- Comprehensive map of host-virus interactions mined by combining datasets.
+-
+
+# Personal Thoughts
+
+- Influenza's host range is uniquely broad.
+- Incentives for this study and its publication would not be provided by search for therapies.
+- Yet therapies will very likely come out of this.
