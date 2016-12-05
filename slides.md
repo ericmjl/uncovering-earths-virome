@@ -17,6 +17,9 @@ notes: True
 
 # Motivating Questions
 
+
+## Metagenomics lets us answer these questions:
+
 - How many viruses are out there?
 - How can we discover them if we can't grow them?
 
