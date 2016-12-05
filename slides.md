@@ -72,12 +72,17 @@ This is the one place where I think the paper uncovers new biology.
 
 # Viral distribution is clustered according to habitat
 
-![](./figures/nature19094-f4.jpg)
+![Viral distribution patterns in marine and human samples.](./figures/nature19094-f4.jpg)
 
 # Viruses can be found basically all known environments
 
-![](./figures/nature19094-f5.jpg)
+![Habitat distribution of metagenomic viruses.](./figures/nature19094-f5.jpg)
 
 # Viruses are shared between geographical locations
 
-![](./figures/nature19094-f6.jpg)
+![Global distribution of viral diversity.](./figures/nature19094-sf10.jpg)
+
+# Main Conclusions
+
+- Metagenomics expands our view of the biosphere.
+- New biology mined by combining datasets.
