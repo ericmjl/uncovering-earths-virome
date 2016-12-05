@@ -1,5 +1,5 @@
 ---
-title: Uncovering the Earth's Virome
+title: Uncovering Earth's Virome
 author: Eric J. Ma
 theme: Madrid
 mainfont: True
