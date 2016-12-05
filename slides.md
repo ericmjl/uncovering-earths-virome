@@ -89,6 +89,11 @@ This is the one place where I think the paper uncovers new biology.
 
 # Personal Thoughts
 
+## On Influenza
+
 - Influenza's host range is uniquely broad.
+
+## On Incentives
+
 - Incentives for this study and its publication would not be provided by search for therapies.
 - Yet therapies will very likely come out of this.
