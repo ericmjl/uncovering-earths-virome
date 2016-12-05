@@ -22,7 +22,7 @@ Speakers: Dennis Carroll, Peter Daszak
 ## Six take-home thoughts
 - 21st century disease emergence is accelerating - driven by population growth and related impact on the environment
 - The world is still ill-prepared to respond to an emerging threat
-- Our capacity to deploy effective “counter measures” is limited by what we “don’t know” about future threats
+- **Our capacity to deploy effective “counter measures” is limited by what we “don’t know” about future threats**
 - Success will require changing from a culture that is “reactive” to one that is “proactive”
 - We live in an age of Big Data which allows us to think differently about problems and solutions
 - The Global Virome Project is about Big Data making a Big Impact
