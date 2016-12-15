@@ -9,7 +9,7 @@ pandoc --section-divs -t revealjs -s \
     -H header.html \
     slides.md
 
-# Automatically add and commit
-git add .
-git commit
-git push
+# # Automatically add and commit
+# git add .
+# git commit
+# git push
