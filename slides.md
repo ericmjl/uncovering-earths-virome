@@ -12,11 +12,11 @@ theme: beige
 
 # Slides Online
 
-- Source: [github.com/ericmjl/uncovering-earths-virome][source]
-- PDF: [ericmjl.com/uploads/uncovering-earths-virome.pdf][pdf]
+- [source]
+- [slides]
 
-[pdf]: http://www.ericmjl.com/uploads/uncovering-earths-virome.pdf
-[source]: http://github.com/ericmjl/uncovering-earths-virome
+[source]: http://www.github.com/ericmjl/uncovering-earths-virome
+[slides]: http://ericmjl.github.io/uncovering-earths-virome/slides.html
 
 # IMED 2016
 
