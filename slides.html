@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Uncovering Earth's Virome</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/Madrid.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                <section id="title" class="slide level1">
+                    <h1>Uncovering Earth's Virome</h1>
+                                                            <h2> ()</h2>
+                                                        </section>
+                <section id="slides-online" class="slide level1">
+                <h1>Slides Online</h1>
+                <ul>
+                <li>Source: <a href="http://github.com/ericmjl/uncovering-earths-virome">github.com/ericmjl/uncovering-earths-virome</a></li>
+                <li>PDF: <a href="http://www.ericmjl.com/uploads/uncovering-earths-virome.pdf">ericmjl.com/uploads/uncovering-earths-virome.pdf</a></li>
+                </ul>
+                </section>
+                <section id="imed-2016-closing-plenary-remarks" class="slide level1">
+                <h1>IMED 2016 Closing Plenary Remarks</h1>
+                <p>Speakers: Dennis Carroll, Peter Daszak</p>
+                <section id="six-take-home-thoughts" class="level2">
+                <h2>Six take-home thoughts</h2>
+                <ul>
+                <li>21st century disease emergence is accelerating - driven by population growth and related impact on the environment</li>
+                <li>The world is still ill-prepared to respond to an emerging threat</li>
+                <li><strong>Our capacity to deploy effective “counter measures” is limited by what we “don’t know” about future threats</strong></li>
+                <li>Success will require changing from a culture that is “reactive” to one that is “proactive”</li>
+                <li>We live in an age of Big Data which allows us to think differently about problems and solutions</li>
+                <li>The Global Virome Project is about Big Data making a Big Impact</li>
+                </ul>
+                </section>
+                </section>
+                <section id="motivating-questions" class="slide level1">
+                <h1>Motivating Questions</h1>
+                <section id="metagenomics-lets-us-answer-these-questions" class="level2">
+                <h2>Metagenomics lets us answer these questions:</h2>
+                <ul>
+                <li>How many viruses are out there?</li>
+                <li>How can we discover them if we can't grow them?</li>
+                </ul>
+                </section>
+                </section>
+                <section id="data-source-and-processing" class="slide level1">
+                <h1>Data Source and Processing</h1>
+                <ul>
+                <li>Publicly available metagenomic data sets from the IMG/M<a href="#/fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> system.
+                <ul>
+                <li>1,729 environmental samples</li>
+                <li>1,079 host-associated samples</li>
+                <li>234 engineered samples</li>
+                </ul></li>
+                </ul>
+                <p>Engineered: originating from the &quot;built environment&quot;; check &quot;MicroBENet<a href="#/fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>&quot;.</p>
+                </section>
+                <section id="data-source-and-processing-1" class="slide level1">
+                <h1>Data Source and Processing</h1>
+                <section id="problem" class="level2">
+                <h2>Problem:</h2>
+                <ul>
+                <li>No universal markers, unlike barcode of life.</li>
+                </ul>
+                </section>
+                <section id="solution" class="level2">
+                <h2>Solution:</h2>
+                <ul>
+                <li>Leverage what we know:
+                <ul>
+                <li>Protein families from 1,800 manually identified metagenomic viral contigs.</li>
+                <li>Known viral protein families from isolates.</li>
+                </ul></li>
+                <li>Use known viral sequences as bait</li>
+                </ul>
+                </section>
+                </section>
+                <section id="metagenomic-mining-expands-diversity-of-known-viruses" class="slide level1">
+                <h1>Metagenomic mining expands diversity of known viruses</h1>
+                <ul>
+                <li>Large Viruses
+                <ul>
+                <li>596 kb contig, bioreactor</li>
+                <li>Circular genomes by end overlaps</li>
+                <li>350-470 kb contig (6 samples)</li>
+                </ul></li>
+                </ul>
+                </section>
+                <section id="metagenomic-mining-expands-diversity-of-known-viruses-1" class="slide level1">
+                <h1>Metagenomic mining expands diversity of known viruses</h1>
+                <figure>
+                <img src="./figures/nature19094-f1.jpg" alt="Where new viruses came from." /><figcaption>Where new viruses came from.</figcaption>
+                </figure>
+                </section>
+                <section id="host-virus-interactions-mapped-by-data-integration" class="slide level1">
+                <h1>Host-virus interactions mapped by data integration</h1>
+                <ul>
+                <li>Viral &quot;Groups&quot;: Project known host-virus interactions.</li>
+                <li>CRISPR-Cas: identify virus-prokaryote pairings.</li>
+                <li>Viral tRNA: match to host genomes.</li>
+                </ul>
+                <p>This is the one place where I think the paper uncovers new biology.</p>
+                </section>
+                <section id="expanded-view-of-host-virus-interactions" class="slide level1">
+                <h1>Expanded view of host-virus interactions</h1>
+                <figure>
+                <img src="./figures/nature19094-f2.jpg" alt="Viruses mapped to host species." /><figcaption>Viruses mapped to host species.</figcaption>
+                </figure>
+                </section>
+                <section id="crispr-spacers-targeting-same-virus-found-on-disparate-phyla" class="slide level1">
+                <h1>CRISPR spacers targeting same virus found on disparate phyla</h1>
+                <figure>
+                <img src="./figures/nature19094-f3.jpg" alt="On phage genomes, here&#39;s where CRISPR spacers are found." /><figcaption>On phage genomes, here's where CRISPR spacers are found.</figcaption>
+                </figure>
+                </section>
+                <section id="viral-distribution-is-clustered-according-to-habitat" class="slide level1">
+                <h1>Viral distribution is clustered according to habitat</h1>
+                <figure>
+                <img src="./figures/nature19094-f4.jpg" alt="Viral distribution patterns in marine and human samples." /><figcaption>Viral distribution patterns in marine and human samples.</figcaption>
+                </figure>
+                </section>
+                <section id="viruses-can-be-found-basically-all-known-environments" class="slide level1">
+                <h1>Viruses can be found basically all known environments</h1>
+                <figure>
+                <img src="./figures/nature19094-f5.jpg" alt="Habitat distribution of metagenomic viruses." /><figcaption>Habitat distribution of metagenomic viruses.</figcaption>
+                </figure>
+                </section>
+                <section id="viruses-are-shared-between-geographical-locations" class="slide level1">
+                <h1>Viruses are shared between geographical locations</h1>
+                <figure>
+                <img src="./figures/nature19094-sf10.jpg" alt="Global distribution of viral diversity." /><figcaption>Global distribution of viral diversity.</figcaption>
+                </figure>
+                </section>
+                <section id="paper-conclusions-claims" class="slide level1">
+                <h1>Paper Conclusions &amp; Claims</h1>
+                <ul>
+                <li>Metagenomics expands our view of the biosphere.</li>
+                <li>Comprehensive map of host-virus interactions mined by combining datasets.</li>
+                </ul>
+                </section>
+                <section id="personal-thoughts" class="slide level1">
+                <h1>Personal Thoughts</h1>
+                <section id="on-influenza" class="level2">
+                <h2>On Influenza</h2>
+                <ul>
+                <li>Influenza's host range is uniquely broad.</li>
+                </ul>
+                </section>
+                <section id="on-incentives" class="level2">
+                <h2>On Incentives</h2>
+                <ul>
+                <li>Incentives for this study and its publication would not be provided by search for therapies.</li>
+                <li>Yet therapies will very likely come out of this.</li>
+                </ul>
+                </section>
+                </section>
+                <section class="footnotes">
+                <hr />
+                <ol>
+                <li id="fn1"><p>Integrated Microbial Genomes with Microbial Samples<a href="#/fnref1">↩</a></p></li>
+                <li id="fn2"><p>Microbiology of the Built Environment Network<a href="#/fnref2">↩</a></p></li>
+                </ol>
+                </section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>

@@ -1,3 +1,15 @@
-pandoc -t beamer slides.md -o slides.pdf
+# Make HTML notes version of slides
+pandoc slides.md -o index.html -c css/notes.css \
+    --template=template.html -H header.html
 
-scp slides.pdf doroot:/var/www/html/uploads/uncovering-earths-virome.pdf
+# Make revealjs version of slides
+pandoc --section-divs -t revealjs -s \
+    --template template.revealjs \
+    -o slides.html \
+    -H header.html \
+    slides.md
+
+# Automatically add and commit
+git add .
+git commit
+git push
